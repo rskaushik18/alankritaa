@@ -67,7 +67,7 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "We're a Bridal Henna Studio that specialises in Bespoke Henna."
+    heading               = "Bespoke Bridal Henna Studio"
     tagline               = "GET ALANKRIT!"
     primary_button        = "See Our Works"
     primary_button_url    = "portfolio"
