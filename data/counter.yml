@@ -1,10 +1,10 @@
 enable : true
 heading : "THE PROOF IS IN THE PUDDING!"
 counter_item: 
-  - title: "Happy Clients"
-    number: "250"
+  - title: "Happy Brides"
+    number: "2500"
 
-  - title: "Projects Completed"
+  - title: "Bespoke Projects Completed"
     number: "100"
 
   - title: "Cups of coffee"
