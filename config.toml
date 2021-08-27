@@ -69,7 +69,7 @@ summarylength = 25
     background_image      = "images/backgrounds/hero-background.jpg"
     heading               = ""
     tagline               = "Timeless Appeal Of Henna"
-    primary_button        = "See Our Works"
+    primary_button        = "See Our Work"
     primary_button_url    = "portfolio"
     secondary_button      = "Connect with Us"
     secondary_button_url  = "contact"
@@ -82,11 +82,9 @@ summarylength = 25
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "LET’S WORK TOGETHER"
+    title               = ""
     primary_button      = "Submit Query"
     primary_button_url  = "contact"
-    secondary_button    = "Not Convinced"
-    secondary_button_url = "portfolio"
 
   [params.footer]
     # Footer Contact Info
