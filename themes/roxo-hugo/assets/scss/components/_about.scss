@@ -1,7 +1,7 @@
 .site-about{
   &-header{
     padding-top: 80px;
-    background-color: $gray;
+    background-color: $secondary-color;
     @include mobile{
       padding-top: 60px;
       text-align: center;
@@ -27,6 +27,8 @@
       line-height: 60px;
       text-transform: uppercase;
       letter-spacing: 1px;
+      text-align: center;
+      padding-top: 50px;
     }
   }
   &-description{
@@ -37,9 +39,11 @@
       padding: 0 38px;
     }
     p{
-      font-size: 25px;
+      padding-top: 50px;
+      font-size: 20px;
       font-weight: 300;
       margin-bottom: 0;
+      color: $white;
     }
   }
 }
