@@ -75,3 +75,11 @@
     background: darken($color: $btn-color, $amount: 10);
   }
 }
+
+.btn-tertiary{
+  background: $secondary-color;
+  color: $white;
+  &:hover{
+    background: darken($color: $secondary-color, $amount: 10);
+  }
+}
