@@ -1,39 +1,39 @@
 enable  : true
-title   : "OPINION FROM REAL PEOPLE"
-subtitle: "What clients says about our services."
+title   : "HEAR FROM OUR FAM"
+subtitle: "What our brides says about our services."
 testimonial_item :
   - thumb : "images/testimonial/user-thumb-one.jpg"
-    name  : "Simonns Hodge"
-    company_position: "CEO, Credito"
+    name  : "Kurbi"
+    company_position: ""
     quote : > 
-            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
+            "They did a superlative job artistically but more than that, their calming presence was so wonderful. I was a jittery, overly chatty and very fidgety bride but they patiently saw the whole exercise through." 
 
   - thumb : "images/testimonial/user-thumb-two.jpg"
-    name  : "Rekon Montino"
-    company_position: "CDO, Bulmuci"
+    name  : "Preha"
+    company_position: ""
     quote : > 
-            "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
+            "They did my bridal henna, and what an Incredible job they did. Being a henna fan all my life, my wedding mehandi was so important to me, and it was the best decision to go with Alankritaa by Rashi. From spending time to conceptualizing the design to the final day, it had been a smooth smooth ride with Rashi. Something us bridezilla's really need. The final stain of the henna was fab too." 
 
   - thumb : "images/testimonial/user-thumb-three.jpg"
-    name  : "Ryan Hillary"
-    company_position: "MD, Udilamo"
+    name  : "Pritika"
+    company_position: ""
     quote : > 
-            "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush." 
+            "Since I am not from Delhi, we decided everything over the phone and WhatsApp but I was not scared or skeptical because I knew she would do a great job! She sent me her rough sketches and ideas over WhatsApp and then we just decided to go with the flow. In the middle of the mehendi I requested for a change and addition and she happily did it with a huge smile on her face! The mehendi turned out to be STUNNING and something I will cherish all my life!" 
 
   - thumb : "images/testimonial/user-thumb-four.jpg"
-    name  : "Dockrel Kahn"
-    company_position: "PM, Walmet"
+    name  : "Aarushi"
+    company_position: ""
     quote : > 
-            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
+            "As every other bride, I too wanted to do something different when it came to my mehendi and so she made it happen. Thanks to her, I had everything I wanted. From brainstorming with me till finalizing each and every element… making the ten thousand changes that I kept asking her to do and patiently dealing with my demands... she was just brilliant with everything. My mehendi had a little bit of me, a little bit of tradition and a lot of love. I recommend her a 100% and more." 
 
   - thumb : "images/testimonial/user-thumb-five.jpg"
-    name  : "Orino Monteno"
-    company_position: "CEO, Axion"
+    name  : "Penny"
+    company_position: ""
     quote : > 
-            "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
+            "We went back and forth a lot when it came to designing my mehndi and it was perfect. I was very concerned about not getting color on the back as I usually don’t and I even suggested may be using colored chemicals and all but Rashi assured me that it will all be fine and I shouldn’t worry. And she was right. My Mehndi turned out more than perfect. Highly recommend her. She will make your mehndi dreams come true." 
 
   - thumb : "images/testimonial/user-thumb-six.jpg"
-    name  : "Welfo Roy"
-    company_position: "PDO, Komoyo"
+    name  : "Aakriti"
+    company_position: ""
     quote : > 
-            "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush." 
+            "Their work is extremely neat and so intricate that you just instantly fall in love with their designs. I wanted a simple and elegant design for my mehendi and they created something perfectly aligned with what I wanted. They were extremely punctual and reached early in the morning to start. I wanted to get my makeup done while getting the mehendi put and they were extremely accommodating throughout." 
